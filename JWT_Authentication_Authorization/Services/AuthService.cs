@@ -9,8 +9,6 @@ using System.Linq;
 using System.Security.Claims;
 using System.Text;
 
-//test git
-
 namespace JWT_Authentication_Authorization.Services
 {
     public class AuthService : IAuthService
